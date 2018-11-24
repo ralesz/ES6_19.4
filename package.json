@@ -1,0 +1,25 @@
+{
+  "name": "ES6_19.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel excercises.js --watch --out-file excercises-compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralesz/ES6_19.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralesz/ES6_19.4/issues"
+  },
+  "homepage": "https://github.com/ralesz/ES6_19.4#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
